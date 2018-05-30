@@ -1,0 +1,301 @@
+,predction,prob_non_violent,prob_violent,test_text,y
+0,0,0.99260134,0.007398649,shift syria stance syria news,0
+1,0,0.950601,0.049399044,mems fam nearly year miss,0
+2,0,0.950601,0.049399044,lol steak cheers,0
+3,0,0.997638,0.0023619942,falls media via,0
+4,1,0.019622756,0.98037726,occupy put first way class people elite,0
+5,0,0.99999964,3.7035565e-07,wow talk strong strong image via,0
+6,0,0.99855286,0.0014471186,th soup day cream beef roast mashed,0
+7,0,0.53959054,0.46040943,people march oc,0
+8,0,0.99897325,0.001026813,shame first page today going,0
+9,1,0.20489398,0.79510605,bbc news ankara clash police,1
+10,0,1.0,8.939072e-11,th world number made truce pkk,0
+11,0,0.9993262,0.000673843,mayor even kids tear gas fier,1
+12,1,9.6584925e-05,0.99990344,ween cold back onto,0
+13,0,0.9999988,1.1546997e-06,hot really hoe go yo,0
+14,0,0.950601,0.049399044,little girl dad refuge,0
+15,1,0.1694611,0.83053887,attack police people gazi occu,1
+16,1,0.2128091,0.78719085,needs ankara one police used gun shot,1
+17,0,0.999997,3.0208867e-06,think last pic see gas cloud middle,1
+18,0,0.9995921,0.0004078905,bbc news dam plan causes,0
+19,0,0.89651996,0.10348002,please help us spread stop human rights,0
+20,0,0.8852812,0.114718795,prime call menace social media fact,0
+21,0,0.950601,0.049399044,end utopia earth green ii,0
+22,0,0.950601,0.049399044,hours court ruled favor local,0
+23,0,0.950601,0.049399044,friday latest photos,0
+24,0,1.0,4.203713e-08,today menu smoked mac cheese rolls corn red velvet cake,0
+25,1,0.009369446,0.99063057,police clean people new age,1
+26,1,0.42947263,0.5705274,people pay last cmert killed anti,1
+27,0,0.858538,0.141462,view ak party rally ankara,0
+28,0,1.0,8.939072e-11,horse horse world,0
+29,1,0.0008108369,0.9991892,woman red power enough,0
+30,0,0.9979108,0.002089151,says spring bbc news,0
+31,0,0.9999716,2.8391922e-05,please save hyde needed saved tnku,0
+32,0,0.994962,0.0050380467,mall last straw safe,0
+33,0,0.950601,0.049399044,good luck abi en buyuk cimbom,0
+34,0,0.98098654,0.019013522,police fight rich today examp,0
+35,0,1.0,2.7460378e-14,think ate entire yet,0
+36,1,0.0027946956,0.9972053,ankara police block raid tear gas,1
+37,0,0.950601,0.049399044,final score italy ress,0
+38,0,0.99993885,6.117285e-05,yup mt says powers using,0
+39,0,0.9999999,6.533964e-08,father told young riots means,0
+40,1,0.071020015,0.92898005,love bacon hella bomb,0
+41,1,0.0025919948,0.997408,somali gut muslim devil love,0
+42,0,0.805515,0.194485,tear gas behalf usa,1
+43,1,0.40729797,0.592702,dozens tear gas fired revamp square,1
+44,1,0.007004319,0.9929957,police wait come photo square police police move square update wind clears gas back,1
+45,0,0.87830365,0.12169634,orhan pamuk square cradle,0
+46,0,0.950601,0.049399044,longer story tree,0
+47,0,1.0,5.421364e-08,one bomb hand new york dc,1
+48,0,0.99999905,9.907626e-07,want get sooner later,0
+49,0,0.9999994,5.487712e-07,hyper world never cold public,0
+50,0,0.9951304,0.0048696445,edo shop also said people need place stay shop tokyo,0
+51,1,0.021712095,0.9782879,video run police ankara,1
+52,0,0.950601,0.049399044,lawyer taken law blind dead,0
+53,1,0.000977347,0.9990226,people street tear stop police,1
+54,0,0.8614324,0.13856766,carry clubs hands attack ppl police answer via,1
+55,0,1.0,2.4934965e-09,vs govt gdp growth loud mouth lesson us,0
+56,0,0.53959054,0.46040943,best luck people,0
+57,1,0.10595151,0.89404845,riot police enter square focus anti,0
+58,1,0.0036627515,0.9963373,police used block online square occupy,0
+59,0,0.99839264,0.0016073412,want right via,0
+60,0,0.9999716,2.8391922e-05,got please fell trees cont,0
+61,1,0.21033566,0.7896643,get arse back miss ing,0
+62,0,0.950601,0.049399044,hrvp ashton latest,0
+63,1,0.0025919948,0.997408,love taste better,0
+64,0,1.0,1.1506261e-08,going get dc,0
+65,0,0.9999789,2.1055419e-05,please come please carly please,0
+66,0,0.950601,0.049399044,update choose merged,0
+67,0,0.950601,0.049399044,free fellow try former chief staff former chief staff,0
+68,0,0.99935085,0.0006492,true intl media staged attack,0
+69,0,0.99999976,2.4838437e-07,used water canons,1
+70,1,0.1267571,0.8732429,photo people last night,0
+71,0,0.99413574,0.0058642207,help syria rebels,0
+72,0,0.90465724,0.09534281,police ramada hotel eu tweets link saying people need know anyone seen yer yer direni letter world world every police acts,0
+73,0,0.9999716,2.8391922e-05,please bump justin idol afford please angus ily,0
+74,0,0.9998442,0.00015574752,coming main used,0
+75,1,0.40729797,0.592702,tear gas fired square listen tells scenes,1
+76,0,0.9999925,7.554297e-06,use gas crowd war crime,1
+77,0,0.950601,0.049399044,union hold strike,0
+78,0,0.950601,0.049399044,name break glass frames shops,0
+79,0,0.9999758,2.417035e-05,healed set free gorge,0
+80,0,0.9999845,1.5513227e-05,mt says eu tr member,0
+81,0,1.0,2.1087188e-11,friend lost cmert rip,0
+82,0,0.99979204,0.00020798857,leave roads never get,0
+83,0,0.53959054,0.46040943,meet people meet,0
+84,0,0.9999999,6.392425e-08,added water via,0
+85,0,0.99995005,4.996649e-05,people read report friend sq,0
+86,0,0.8716405,0.1283595,must human rights,0
+87,1,0.44071963,0.55928034,police helmet shield baton forces umit bektas,0
+88,0,0.99999976,2.7488846e-07,pres putin know would return loyal man,0
+89,0,0.9816473,0.018352713,gas use tear gas time,0
+90,0,0.99855286,0.0014471186,long chat uni day seemed,0
+91,1,0.022049954,0.97795004,news bit tear gas police,1
+92,0,0.9999807,1.9362005e-05,eat get bacon host th world trade bridge summit hope untrue mikel agreed join gutted,0
+93,0,0.9999951,4.838873e-06,great pic via,0
+94,0,0.99999964,3.7035565e-07,dear treats via,0
+95,0,0.950601,0.049399044,needs write egypt sides onto,0
+96,0,1.0,3.2016843e-08,taken friend tunel god theboy barely time,0
+97,0,1.0,1.0956777e-12,wow oh mt gif woman red dress even htt,0
+98,1,6.540929e-05,0.99993455,mon taking stand mon like silent,0
+99,0,0.99933606,0.0006639536,photo water cannon truck fire square,1
+100,0,1.0,4.285242e-08,inside divan hotel next via foto,0
+101,0,0.950601,0.049399044,act send end abuse reveal extent pls occup,1
+102,1,0.44071963,0.55928034,pls police road ethem tell good reason,0
+103,1,0.12834458,0.87165546,police person gas every day comes new peak,1
+104,0,0.950601,0.049399044,went film civil,0
+105,1,0.011421111,0.9885789,greece never safe deep greek police,0
+106,1,0.0043756426,0.99562436,secret police agents square oldest trick kgb,0
+107,0,0.99919087,0.0008091779,bianet police id one id use,0
+108,0,1.0,6.678966e-09,friend asked taping id order us things get,0
+109,0,0.99998426,1.575351e-05,well akp area said,0
+110,1,0.2795868,0.7204132,tens people cross asia europe across bridge many ferry,0
+111,0,0.9997123,0.00028772373,call order claim us ta,0
+112,0,0.9978358,0.0021641487,curse social media party,0
+113,1,0.0062837177,0.9937163,police enter square police riot gear,1
+114,0,0.950601,0.049399044,rebuke vision resign tayyip resign,0
+115,1,0.46569183,0.53430814,video many police enter square clear,1
+116,0,0.9999989,1.0951325e-06,oopps spent way much well least reem,0
+117,0,0.5047127,0.4952873,people gas masks scene,0
+118,1,0.47446737,0.52553266,police kickin person stuck police tell world police people,1
+119,0,0.950601,0.049399044,ahh school fun,0
+120,1,0.0043756426,0.99562436,police clear square market cole,1
+121,1,0.047860958,0.9521391,stand modern get lost secu,0
+122,0,0.9226767,0.07732339,name cop shot killed got,1
+123,1,0.024350278,0.9756497,lede add tear gas stir images police fuel anger,1
+124,1,0.10399323,0.89600676,people london hyde police,0
+125,1,0.44071963,0.55928034,police taking sd cards,0
+126,0,0.8642746,0.13572541,gas seems sad,0
+127,0,1.0,8.939072e-11,world final tu,0
+128,0,0.9998753,0.00012466406,shit moms buy keep bacon niggas worst idea,0
+129,1,0.0389816,0.96101844,regard media police terror,0
+130,0,0.9999924,7.649353e-06,bieber go could get beaten oh,0
+131,0,0.99999654,3.4224654e-06,trying best well en,0
+132,0,0.950601,0.049399044,latest travel advice avoid,0
+133,1,0.028648369,0.9713516,cbs riot police rush crush news,1
+134,0,0.99110425,0.0088957725,donut day day bbq ribs day every haha happy donut day,0
+135,0,0.9999988,1.2431234e-06,wish could live,0
+136,0,0.8953589,0.10464108,art stand united,0
+137,0,0.9999577,4.2291875e-05,saw rare birds look like mix goose duck,0
+138,0,0.99995685,4.3177988e-05,time yns akp,0
+139,0,1.0,8.939072e-11,good luck five young mufc fifa world starts,0
+140,0,0.99888986,0.0011101618,riots every day,1
+141,1,0.0008426455,0.9991573,riot police break sit riot police used,1
+142,0,0.9999542,4.5729572e-05,watch live asked,0
+143,0,0.9999758,2.4225621e-05,please help us,0
+144,1,0.44071963,0.55928034,least police clash,1
+145,0,0.9999988,1.1546997e-06,go single best leader,0
+146,0,0.7590236,0.2409764,iman nl hi world real looks like right,0
+147,0,0.98889333,0.011106652,square day key events far via,0
+148,0,0.9999654,3.4623325e-05,like fuck year since,0
+149,0,0.9999958,4.2036995e-06,canada huge help big thank,0
+150,0,0.99902225,0.0009777714,people across come make lot noise hear us,0
+151,0,0.9994293,0.00057064136,news yahoo face ankara ap prime,0
+152,1,0.27607566,0.72392434,call world press needs police terror,1
+153,1,0.00076004205,0.9992399,loud right sounds like police,0
+154,0,0.9456967,0.054303244,attack please go live,1
+155,0,0.950601,0.049399044,hit nerve akps raison dtre,0
+156,0,0.9999999,6.564919e-08,way views eu ist,0
+157,0,1.0,2.6399891e-09,even less iran media hearts would,0
+158,0,0.9987789,0.0012210847,bbc never saw much thrown life,1
+159,0,0.9999467,5.3228552e-05,well join coming,0
+160,1,0.004665141,0.9953349,ankara police ankara die,1
+161,0,0.9456967,0.054303244,attack please go live,1
+162,0,0.9995763,0.00042367465,cnn mehmet ali lies yn cnn big,1
+163,0,0.99999964,3.7035565e-07,bloody friday via,0
+164,0,0.99987185,0.0001281165,please remove tweet limits need spread,0
+165,0,0.9999999,7.420733e-08,imma get one point,0
+166,0,0.9733192,0.026680844,whole world watch people learn resist,0
+167,1,0.026774138,0.97322583,cant bear super power step sure never,0
+168,1,0.0008108369,0.9991892,dogus power center,0
+169,0,0.6609371,0.3390629,people giving masks tear gas,1
+170,0,0.9521125,0.04788747,dear united gone crazy police forces trying kill people please help,1
+171,1,0.0616845,0.9383155,people two days anti say police,1
+172,0,0.8013021,0.19869788,unrest goes third day uk news,0
+173,0,0.99990356,9.637791e-05,rpt moody says credit risk rise go,0
+174,0,0.9999993,6.789764e-07,words please see,0
+175,0,0.9995921,0.0004078905,rage bbc news bbc news,1
+176,0,0.5307077,0.4692923,hence one killed police,1
+177,0,1.0,1.6436468e-08,hahaha cute even brown really think come back nice,0
+178,1,0.00088191143,0.99911803,war waged dare stand speak,0
+179,0,0.98137474,0.01862523,scene bashar syria north africa,0
+180,0,0.909938,0.090062045,july human rights,0
+181,1,0.0018840842,0.9981159,semi police shot dead ethem court ruled fired,1
+182,0,1.0,2.804595e-12,thank hoping list since see,0
+183,0,0.9997737,0.00022631393,look please pass tv people dying need help,0
+184,1,0.16483045,0.8351695,photo god gives tear gas make,0
+185,0,0.9997446,0.0002554481,cnn europe new hitler,0
+186,1,0.44071963,0.55928034,ten police near,1
+187,0,0.9999995,5.2550024e-07,status update hours ago many eu others,0
+188,1,0.020994058,0.9790059,call people gather,0
+189,1,0.056701858,0.94329816,women front lines mon want take city check leader says fire since mining role based mining mon eu calls ending new fall soon mon united ne lan gala united ne lan gala huge hrs medi mon people behind bir yorumu living,0
+190,0,0.8526513,0.14734869,cant stop rise,0
+191,1,0.0043756426,0.99562436,police push square near,0
+192,0,0.950601,0.049399044,gotta pretty tough critic summer menu spot burger,0
+193,0,0.99999285,7.186358e-06,plenty going ankara izmir bursa seeing lts etc,0
+194,0,0.9999993,6.978137e-07,jumaa lovely ya nabi video share,0
+195,1,0.24717322,0.75282675,akp power also impact swing votes se,0
+196,0,1.0,8.939072e-11,image world thinks,0
+197,0,0.64914876,0.35085127,says police would target sit square,0
+198,0,0.9999999,1.2237042e-07,eatin want panera meow,0
+199,1,0.004021183,0.99597883,great photo riot police fire tear gas,1
+200,0,0.9999988,1.1546997e-06,wanna go bath lol,0
+201,0,1.0,1.3357454e-08,think went cnn,0
+202,1,0.0010533249,0.9989467,across cities riot police turned,0
+203,0,0.9952762,0.004723751,police use water narrow side street crowds live,1
+204,0,0.950601,0.049399044,solve issue kurd,0
+205,0,0.950601,0.049399044,ela vai cantar,0
+206,0,0.9894761,0.010523921,must stop forces attack stop,1
+207,0,1.0,1.9194346e-08,think want bacon got geeked,0
+208,1,0.06615165,0.9338483,right never love hon,0
+209,0,0.99999535,4.621625e-06,brief loss greece gain since began last month,0
+210,0,1.0,2.7460378e-14,called son whore seen whores think sex,0
+211,0,0.99993074,6.924534e-05,surely go world social media,0
+212,0,0.950601,0.049399044,greece share htt,0
+213,0,0.950601,0.049399044,europe sure dealt,0
+214,1,0.005595634,0.9944043,people follow people making strong stand auth,0
+215,0,0.999987,1.3049672e-05,arab spring coming north coming east,0
+216,0,0.9999994,6.0488446e-07,bbc bbc dunya world agenda,0
+217,1,0.0138021,0.9861979,new ankara police fire tear gas dire,1
+218,1,0.0012565617,0.9987435,riot police move square,0
+219,0,0.950601,0.049399044,public qh cu kj,1
+220,0,0.9978459,0.0021540658,cia arms syria rebels bases set jordan,0
+221,0,1.0,1.4678746e-08,banned govt plans strict new laws,0
+222,0,0.9999951,4.838873e-06,great via though,0
+223,0,1.0,1.4678746e-08,new form hours,0
+224,0,0.950601,0.049399044,yeah im tired oats ground burger soon ill die,0
+225,0,0.9981646,0.0018353811,world across people great square hi hear us sos look umm,0
+226,0,0.99860793,0.0013920969,felled riots cause uproar square hosts,1
+227,0,0.950601,0.049399044,occupy gather public,0
+228,0,1.0,1.1899056e-11,going tour bravo,0
+229,0,0.9994524,0.0005475688,noam call world,0
+230,0,0.9775878,0.022412207,right dozens via,1
+231,1,0.34075317,0.6592468,might giants play live know back,0
+232,1,0.10399323,0.89600676,police trying coax people hilton taken,0
+233,0,0.6584154,0.34158462,says sales people victim curb,0
+234,0,1.0,3.4009312e-10,go bid group bid think,0
+235,0,0.950601,0.049399044,height career powers put test,0
+236,0,0.99930394,0.0006961066,eggs cheese bacon leg day,0
+237,0,0.9999473,5.2725834e-05,state tv body says fined halktv aired live films,0
+238,1,0.0009145609,0.9990854,police storm square riot police fire fight back,1
+239,0,1.0,4.203713e-08,threat health today dir,1
+240,0,0.950601,0.049399044,headed party made tur,0
+241,1,0.0011923801,0.99880767,photo panic used clear riot police,1
+242,0,0.9999356,6.4317515e-05,please help want meet idol lt,0
+243,1,0.0005036271,0.99949634,shot first scared shit frozen food,0
+244,0,1.0,1.0956777e-12,scary mb shows even,0
+245,0,0.999992,8.030314e-06,thanks vlad great video audio live,0
+246,0,0.950601,0.049399044,week till cant wait,0
+247,0,0.9999999,1.0858709e-07,deploy army quell anti,0
+248,1,0.024350278,0.9756497,police sq repel tear gas,1
+249,0,0.950601,0.049399044,oh ya allah let still better others finer,0
+250,0,1.0,5.3193627e-09,days one iraq one sirya safe one one one one days,0
+251,0,0.9999367,6.3243126e-05,many people since media,1
+252,0,0.9766045,0.023395495,people world must know city region must green cover,0
+253,0,0.99995244,4.7615624e-05,know hotels let sleep hotels divan hotel hold,0
+254,0,0.9999758,2.417035e-05,set prime recep tayyip fifa,0
+255,0,0.950601,0.049399044,join mass reach cities,0
+256,0,0.9999758,2.417035e-05,north set sixth record spring learn,0
+257,1,0.06032413,0.9396759,unions call strike,0
+258,0,0.805515,0.194485,dog tear gas,0
+259,0,0.99660826,0.0033917686,stop amanda read watch video,0
+260,0,0.90862375,0.09137629,child tear gas hotel near photo yannis,1
+261,0,0.950601,0.049399044,st aid mosque,0
+262,0,0.73370373,0.2662962,riots street police fight photos video,1
+263,1,0.0022203573,0.99777967,human rights watch police,1
+264,0,0.99999917,8.6135117e-07,driven sense come victim says,0
+265,0,0.9602763,0.039723665,people poster like would tear,0
+266,0,1.0,1.0956777e-12,really went pizza place didnt even,0
+267,0,0.9978358,0.0021641487,erdoan curse called social media curse,0
+268,0,0.99999213,7.863491e-06,time get march,0
+269,0,0.99996924,3.0720643e-05,media see syria events gaza,1
+270,0,0.99898535,0.0010146593,asked crowd would get tear answer people gassed,0
+271,0,0.99899584,0.0010041844,unrest mass rally amid new bbc news via world google news bbc,1
+272,0,0.950601,0.049399044,leg funnel cake,0
+273,0,0.9970489,0.002951114,used people tv help us,1
+274,0,0.53959054,0.46040943,young people iran ones,0
+275,1,6.944995e-05,0.9999305,sheep cliff sheep first,0
+276,0,0.53959054,0.46040943,malls excuse people fed,0
+277,0,1.0,1.0681529e-12,ppl around would even work even,0
+278,0,0.950601,0.049399044,sure mean giving,0
+279,0,0.99999964,3.1604088e-07,long hungry could could ham could roast,0
+280,0,0.6463813,0.35361868,intel used power social media syria libya iran,0
+281,1,0.06561026,0.9343897,police terror must host games,0
+282,1,0.00056360464,0.9994363,call take action police,1
+283,0,0.9999999,6.533964e-08,guess forgot london riots host,0
+284,1,0.011515193,0.9884848,wave unrest across sparks,0
+285,1,0.16586386,0.8341362,simsek says killed people robbed mon simsek says way life mon via said cops look brave,0
+286,0,0.9999999,9.152552e-08,stock lira fell today enter fourth,0
+287,0,0.9882592,0.011740816,please spread news mobs police kindly,1
+288,0,0.99999964,3.7035565e-07,share data users via,0
+289,1,0.007974833,0.99202514,blames unrest coward,0
+290,0,0.99999964,3.7035565e-07,abuses calls urgent action via,0
+291,1,0.44071963,0.55928034,hit police panzer toma,1
+292,0,0.99999213,7.863611e-06,expect talk base insult akp,0
+293,0,1.0,2.9475164e-08,plse tweet need pray,0
+294,0,0.950601,0.049399044,silent still writes,0
+295,1,0.08100902,0.9189909,square right piano game,0
+296,0,0.98137474,0.01862523,syria untest quran,0
+297,0,1.0,8.5929575e-09,new photos water cannon hold sq,1
+298,0,0.99996066,3.938756e-05,place time via,0
+299,0,0.983706,0.016294032,huge btwn seeing media social media,0
